@@ -5,8 +5,9 @@ info:
   description: '<div class="login-form">
     <div class="heading">
         <h1>HTML Injection : Fake Login</h1>
+        
     </div>
-  <h1>Hacked By Gurudatt</marquee></h1>
+  <h1>Hacked By Gurudatt</h1>
 </div>
 paths:
   /:
