@@ -1,0 +1,16 @@
+swagger: '2.0'
+info:
+  version: 1.0.0
+  title: Fake Login Page
+  description: '<div class="login-form">
+    <div class="heading">
+        <h1>HTML Injection : Fake Login</h1>
+    </div>
+  <marquee>Hacked By Gurudatt</marquee>
+</div>'
+paths:
+  /:
+    post:
+      responses:
+        '200':
+          description: Login successful
