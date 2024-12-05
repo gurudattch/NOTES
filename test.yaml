@@ -6,7 +6,7 @@ info:
     <div class="heading">
         <h1>HTML Injection : Fake Login</h1>
     </div>
-  <h1 style='color:red;'>Hacked By Gurudatt</marquee>
+  <h1 style='color:red;'>Hacked By Gurudatt</marquee></h1>
 </div>'
 paths:
   /:
